@@ -1,6 +1,6 @@
 ## Hi, I am Rohith! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Rohith-JN.Rohith-JN) [![Github](https://img.shields.io/github/followers/Rohith-JN?label=Follow&style=social)](https://github.com/Rohith-JN)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rohith-JN.Rohith-JN) [![Followers](https://img.shields.io/github/followers/Rohith-JN?label=Follow&style=social)](https://github.com/Rohith-JN)
 
 </p>
 
