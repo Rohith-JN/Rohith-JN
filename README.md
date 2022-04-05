@@ -29,6 +29,9 @@
     <a href="https://github.com/Rohith-JN/Personal-assistant.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-JN&repo=Personal-assistant" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/Rohith-JN/Categorize-CLI.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-JN&repo=Categorize-CLI" alt="GitHub Stats" />
+    </a>	  
   </p>
 </div>
 
