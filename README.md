@@ -39,7 +39,3 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohith-JN&show_icons=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-JN" />
 </p>
-
-<br>
-
-[![Rohith's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rohith-JN&theme=react-dark)](https://git.io/Rohith-JN)
