@@ -24,21 +24,3 @@
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-JN&layout=compact)
-
-## Currently Working on:
-
-<div>
-  <p>
-    <a href="https://github.com/Rohith-JN/Categorize-CLI.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith-JN&repo=Categorize-CLI" alt="GitHub Stats" />
-    </a>	  
-  </p>
-</div>
-
-
-## 📈 Stats
-<p align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohith-JN&show_icons=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-JN" />
-</p>
