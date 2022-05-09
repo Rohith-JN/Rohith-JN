@@ -5,7 +5,6 @@
   - Flutter
   - Python
   - React JS
-- I’m looking forward to collaborate on open source projects.
 - https://rohith-jn.github.io/personal-site
 
 
