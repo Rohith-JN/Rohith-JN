@@ -5,7 +5,7 @@
   - Flutter
   - Python
   - React JS
-- https://rohith-jn.github.io/
+- https://rohithnambiar.in/
 
 
 ## Most Used Languages
