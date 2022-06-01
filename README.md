@@ -1,4 +1,4 @@
-## Hi, I am Rohith! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I am Rohith!
 
 * **I am interested in UI-UX designing, Android development and Automation**
 - I’m currently learning ...
