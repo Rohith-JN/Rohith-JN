@@ -2,9 +2,7 @@
 
 * **I am interested in UI-UX designing, Android development and Automation**
 - I’m currently learning ...
-  - Flutter
-  - Python
-  - React JS
+  - Next JS
 - https://rohithnambiar.in/
 
 
