@@ -2,7 +2,7 @@
 
 * **I am interested in UI-UX designing, Web development and Automation**
 - I’m currently learning ...
-  - Next JS
+  - React JS
 - https://rohithnambiar.in/
 
 
