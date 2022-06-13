@@ -3,6 +3,8 @@
 * **I am interested in UI-UX designing, Web development and Automation**
 - I’m currently learning ...
   - React JS
+  - Node JS
+  - Express
 - https://rohithnambiar.in/
 
 
