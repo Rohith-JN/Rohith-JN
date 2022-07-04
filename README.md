@@ -4,10 +4,9 @@
 - I’m currently learning ...
   - React JS
   - Next JS
-  - Node JS
-  - Express
 - https://rohithnambiar.in/
 
+Just finished building this site: http://npm-search-beige.vercel.app/
 
 ## Stats
 
