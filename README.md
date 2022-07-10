@@ -4,9 +4,9 @@
 - I’m currently learning ...
   - React JS
   - Next JS
-- https://rohithnambiar.in/
+- <a href="https://rohithnambiar.in/">rohithnambiar.in</a>
 
-Just finished building this site: http://npm-search-beige.vercel.app/
+Latest project: <a href="http://npm-search-beige.vercel.app/">npm-search</a> 
 
 ## Stats
 
