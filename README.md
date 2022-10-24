@@ -7,5 +7,7 @@
 - <a href="https://rohithnambiar.in/">rohithnambiar.in</a>
 
 ## Stats
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohith-JN&theme=github" /></p>
+<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Rohith-JN&bc=ebebeb&ic=0E8AD9" alt="Rohith-JN" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohith-JN&langs_count=20&show_icons=true&locale=en&layout=compact" alt="Rohith-JN" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-JN&exclude_repo=Aang&layout=compacthide_border=true&theme=radical&hide_border=true)
