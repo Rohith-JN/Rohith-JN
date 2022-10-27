@@ -1,6 +1,6 @@
 ## Hi, I am Rohith!
 
-* **I am interested in UI-UX designing, Web development and Automation**
+* **I am a 16 year old student in high school interested in web development and **
 - I’m currently learning ...
   - React.js
   - Next.js
