@@ -7,8 +7,6 @@ const rohith_jn = {
    website: "rohithnambiar.in",
    other: {
        learning: "MERN stack",
-       }
+   }
 }
 ```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohith-JN&langs_count=3&show_icons=true&locale=en" alt="Rohith-JN" /></p>
-
