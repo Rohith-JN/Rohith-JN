@@ -17,14 +17,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Calcutta
           repositories_forks: yes
-          plugin_languages: yes
           plugin_followup: yes
           plugin_habits: yes
           plugin_lines: yes
           plugin_traffic: yes
           plugin_habits_charts: yes
           plugin_habits_facts: yes
-          plugin_stargazers: yes
           plugin_achievements: yes
           plugin_achievements_threshold: B
           plugin_achievements_secrets: yes
