@@ -8,5 +8,3 @@ const rohith_jn = {
    tools: ["git", "neovim", "firebase", "postman", "XD"]
 }
 ```
-
-![Metrics](https://raw.githubusercontent.com/Rohith-JN/Rohith-JN/main/github-metrics.svg)
