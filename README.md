@@ -3,7 +3,7 @@
 ```javascript
 const rohith_jn = {
    about: "17 year old student in high school located in India, interested in software",
-   tech_stack: ["Javascript", "Typescript", "Python", "Dart", "Lua", "Flutter", "React.js", "Next.js", "Tailwind"],
+   technologies: ["Typescript", "Python", "Flutter", "React.js", "Next.js"],
    website: "rohithnambiar.in",
    tools: ["git", "neovim", "firebase", "postman", "XD"]
 }
